@@ -7,7 +7,7 @@ This repository contains a precompiled version of the Sigrok Command-Line Interf
 ## Features
 
 - **Ready-to-Use**: Get started quickly with the precompiled Sigrok CLI.
-- **Windows Compatibility**: Designed for Windows x64 systems, ensuring compatibility.
+- **Windows Compatibility**: Designed for Windows x64
 - **Sigrok CLI**: Access the full functionality of the Sigrok CLI with ease.
 
 ## Installation
